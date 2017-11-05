@@ -1,0 +1,13 @@
+12
+Corpus Christi|Houston|56|20
+Houston|Austin|91|40
+Chicago|Corpus Christi|239|198
+Houston|Dallas|75|69
+Chicago|Houston|110|89
+Dallas|Chicago|101|140
+New York|Seattle|210|198
+Seattle|Dallas|145|123
+Dallas|New York|150|149
+Chicago|New York|175|92
+Austin|Dallas|92|55
+Las Vegas|San Fransisco|51|89

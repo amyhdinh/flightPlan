@@ -1,0 +1,7 @@
+6
+Dallas|New York|T
+Corpus Christi|Chicago|C
+Austin|Chicago|T
+New York|Seattle|C
+Seattle|Houston|T
+San Fransisco|Las Vegas|C

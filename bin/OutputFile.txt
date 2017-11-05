@@ -1,0 +1,44 @@
+Flight 1: Dallas, New York (Time)
+Path1: Dallas -> New York. Time: 149 Cost: 150
+
+Path2: Dallas -> Chicago -> New York. Time: 232 Cost: 276
+
+Path3: Dallas -> Houston -> Chicago -> New York. Time: 250 Cost: 360
+
+
+Flight 2: Corpus Christi, Chicago (Cost)
+Path1: Corpus Christi -> Houston -> Chicago. Time: 109 Cost: 166
+
+Path2: Corpus Christi -> Houston -> Dallas -> Chicago. Time: 229 Cost: 232
+
+Path3: Corpus Christi -> Chicago. Time: 198 Cost: 239
+
+
+Flight 3: Austin, Chicago (Time)
+Path1: Austin -> Houston -> Chicago. Time: 129 Cost: 201
+
+Path2: Austin -> Dallas -> Chicago. Time: 195 Cost: 193
+
+Path3: Austin -> Dallas -> Houston -> Chicago. Time: 213 Cost: 277
+
+
+Flight 4: New York, Seattle (Cost)
+Path1: New York -> Seattle. Time: 198 Cost: 210
+
+Path2: New York -> Dallas -> Seattle. Time: 272 Cost: 295
+
+Path3: New York -> Chicago -> Dallas -> Seattle. Time: 355 Cost: 421
+
+
+Flight 5: Seattle, Houston (Time)
+Path1: Seattle -> Dallas -> Houston. Time: 192 Cost: 220
+
+Path2: Seattle -> Dallas -> Austin -> Houston. Time: 218 Cost: 328
+
+Path3: Seattle -> Dallas -> Chicago -> Houston. Time: 352 Cost: 356
+
+
+Flight 6: San Fransisco, Las Vegas (Cost)
+Path1: San Fransisco -> Las Vegas. Time: 89 Cost: 51
+
+
